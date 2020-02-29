@@ -30,6 +30,16 @@ Big thanks to
 ---------
 + [Kellerkompanie](http://kellerkompanie.com/)
 
+## Disclaimer from the Editor Tomcat
+    
+- This isn’t a bug free or official Version of the KAT System
+    - This Git is for Development use
+    - Everybody can make Pull/Push request
+    - There will be a lot of bugs at the moment
+    - The rewrite will take its time
+    - If you want to make suggestions feel free to write them into the Discord Server (link above) or write the suggestions in a DM to @Tomcat#9495
+    - You can look at the current state of suggestions on Trello: https://trello.com/b/G9ReF3C7/kat-features
+
 ## Core features
 
 - Airway
@@ -58,8 +68,8 @@ Known Issues
 
 Required
 --------
-+ [CBA_A3 1.20 or later](http://www.armaholic.com/page.php?id=18767)
-+ [ACE3 1.80 or later](https://ace3mod.com/)
++ [CBA_A3 3.13 or later](http://www.armaholic.com/page.php?id=18767)
++ [ACE3 3.13.0 or later](https://ace3mod.com/)
 
 Youtube
 --------
@@ -99,3 +109,4 @@ Please, use my [Issue Tracker](https://github.com/Katalam/kat_aceAdvMedical/issu
  <br>
  This work is licensed under a Arma Public License Share Alike
 </a>
+
