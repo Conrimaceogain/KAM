@@ -20,3 +20,5 @@
 #define VAR_IN_PAIN           "ACE_medical_inPain"
 #define VAR_TOURNIQUET        "ACE_medical_tourniquets"
 #define VAR_FRACTURES         "ACE_medical_fractures"
+
+#define QPATHTOF_SOUND(var1) QUOTE(PATHTOF2_SYS(PREFIX,COMPONENT,var1))
